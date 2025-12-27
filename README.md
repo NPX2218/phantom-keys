@@ -6,6 +6,10 @@ A human-like typing simulator that makes automated text input indistinguishable 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 
+<p align="center">
+  <img src="preview.png" alt="Phantom Keys Preview" width="350">
+</p>
+
 ## What is Phantom Keys?
 
 When you paste text into Google Docs, the version history shows a single "paste" event. This can be problematic in academic or professional settings where document history is reviewed. Phantom Keys solves this by typing out your text character-by-character with realistic human-like patterns, making the version history appear as if the text was manually typed.
@@ -156,6 +160,7 @@ phantom-keys/
 ├── setup.bat            # Windows setup script
 ├── README.md            # This file
 ├── LICENSE              # MIT License
+├── preview.png          # Application screenshot
 └── venv/                # Virtual environment (created on setup)
 ```
 
